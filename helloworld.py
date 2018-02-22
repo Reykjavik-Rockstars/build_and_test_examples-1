@@ -1,1 +1,1 @@
-p("hi world! ~david")
+print("david says hello!")
