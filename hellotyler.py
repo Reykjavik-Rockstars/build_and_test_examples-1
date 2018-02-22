@@ -1,1 +1,1 @@
-p("Tyler be like \"HEYO\"")
+print("Tyler be like \"HEYO\"")
